@@ -9,7 +9,7 @@ Track the status of each bug (Open, In Progress, Resolved)
 Dashboard overview of all active and resolved bugs
 
 *Built with:* 
-HTML / CSS / JavaScript
+HTML / CSS / JavaScript /
 Node.js
 
 
