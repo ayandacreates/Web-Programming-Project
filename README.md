@@ -8,10 +8,13 @@ Node.js,
 Javascript
 
 ## Features
--**Log a Bug:** Report a new bug with a title, description, and priority level
--**Assign a Bug:** Assign bugs to team members from a dropdown list of existing employees
--**Track Progress:** Monitor the status of each bug from open to resolved
--**Resolve & Close:** Mark bugs as fixed and close them off once resolved
+**Log a Bug:** Report a new bug with a title, description, and priority level
+
+**Assign a Bug:** Assign bugs to team members from a dropdown list of existing employees
+
+**Track Progress:** Monitor the status of each bug from open to resolved
+
+**Resolve & Close:** Mark bugs as fixed and close them off once resolved
 
 ## The Process
 This was a group project built by a team of 4. One member laid the foundation — the HTML structure and CSS colour scheme so the look and feel was consistent before anyone else touched the code. The remaining three handled the JavaScript, making the app dynamic and functional. We divided features amongst ourselves, shared code between the team, and had one person responsible for integrating everything into the final working version.
